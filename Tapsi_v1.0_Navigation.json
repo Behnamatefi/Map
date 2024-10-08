@@ -5,8 +5,8 @@
         "dark": "#FFFFFF"
       },
       "casingColor": {
-        "light": "#1FF0000",
-        "dark": "#1FF0000"
+        "light": "#FF0000",
+        "dark": "#FF0000"
       },
       "head": {
         "scale": {
