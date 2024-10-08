@@ -91,8 +91,8 @@
             "dark": "#1298FF"
           },
           "casing": {
-            "light": "#004EEC",
-            "dark": "#004EEC"
+            "light": "#FF0000",
+            "dark": "#FF0000"
           },
           "lowCongestion": {
             "light": "#1298FF",
